@@ -38,7 +38,7 @@ To set up your credentials:
 git config user.name "your username"
 git config user.password "your password"
 ```
-You can set these globally by adding the ```bash --global``` flag to the ```bash git config``` command.
+You can set these globally by adding the ```--global``` flag to the ```git config``` command.
 
 # Credits
 @Ryan Soury at [Quora](https://www.quora.com/As-a-Git-beginner-should-I-use-command-line-or-a-GUI-based-client)
