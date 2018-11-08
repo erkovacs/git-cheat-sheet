@@ -1,4 +1,4 @@
-# Git cheat sheet based on Ryan Soury's Quora post
+# Basic Git cheat sheet
 
 This tutorial will basically let you version control using a single master branch, which is fine for personal projects or any sort of simple software.
 To start, you only really need to know this to push:
@@ -33,5 +33,12 @@ To clone a repo:
 ```bash
 git clone your-git-repo.git your-local-directory
 ```
+To set up your credentials:
+```bash
+git config user.name "your username"
+git config user.password "your password"
+```
+You can set these globally by adding the ```bash --global``` flag to the ```bash git config``` command.
+
 # Credits
 @Ryan Soury at [Quora](https://www.quora.com/As-a-Git-beginner-should-I-use-command-line-or-a-GUI-based-client)
