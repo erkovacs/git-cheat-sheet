@@ -5,7 +5,7 @@ To start, you only really need to know this to push:
 ```bash
 git add . ( To add all your changes )
 
-git commit -m ‘your message’ ( To commit those changes locally )
+git commit -m "your message" ( To commit those changes locally )
 
 git push -u origin master ( To push your commits to your git server - eg. Github )
 ```
