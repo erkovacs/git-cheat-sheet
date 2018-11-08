@@ -1,5 +1,4 @@
-# git-cheat-sheet
-## Git cheat sheet based on Ryan Soury's Quora post
+# Git cheat sheet based on Ryan Soury's Quora post
 
 This tutorial will basically let you version control using a single master branch, which is fine for personal projects or any sort of simple software.
 To start, you only really need to know this to push:
