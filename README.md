@@ -50,4 +50,5 @@ git pull origin master
 
 # Credits
 @Ryan Soury at [Quora](https://www.quora.com/As-a-Git-beginner-should-I-use-command-line-or-a-GUI-based-client)
+
 @Andreas Bigger at [Stackoverflow](https://stackoverflow.com/questions/35942754/how-to-save-username-and-password-in-git)
