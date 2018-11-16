@@ -6,6 +6,7 @@ This tutorial will basically let you version control using a single master branc
 To set up your credentials:
 ```bash
 git config user.name "your username"
+
 git config user.password "your password"
 ```
 You can set these globally by adding the ```--global``` flag to the ```git config``` command.
