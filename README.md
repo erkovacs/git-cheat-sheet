@@ -17,7 +17,6 @@ To initialise a git repo locally:
 git init
 ```
 
-
 To clone a repo:
 ```bash
 git clone your-git-repo.git your-local-directory
@@ -47,6 +46,21 @@ git push -u origin master ( To push your commits to your git server - eg. Github
 And this to pull commits from your server:
 ```bash
 git pull origin master
+```
+
+Create a new local branch:
+```bash
+git checkout -b my-new-branch-name
+```
+
+Push local branch to remote:
+```bash
+git push --set-upstream origin my-new-branch-name
+```
+
+Compare a file between two branches:
+```bash
+git diff branch1 branch2 -- path/to/file-to-compare.extension
 ```
 
 # Credits
